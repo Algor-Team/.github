@@ -9,6 +9,8 @@
 - проектная деятельность
 - участие в стартапах
 
+<img align = "center" src="https://github.com/Algor-Team/.github/blob/main/profile/Component%201.png" width="225">
+
 <table>
   <thead>
     <tr>
