@@ -76,7 +76,7 @@
     <tr>
       <td>Кайзеров Евгений</td>
       <td>Frontend-Dev / Designer</td>
-      <td><a href="" target="_blank"></a></td>
+      <td><a href="https://github.com/UdGin9" target="_blank">UdGin9</a></td>
     </tr>
     <tr>
       <td>Бутузов Арсений</td>
@@ -103,6 +103,9 @@
     <th>Результат</th>
     <th>Уровень</th>
     <th>Сезон</th>
+  </tr>
+  <tr>
+    <td>15</td><td>Умный помощник для тендеров</td><td>14</td><td>Северсталь</td><td>Федерация спортивного программирования России</td><td><a href="https://github.com/MrRobinGoood/SATP-Parser-Microservice" target="_blank">Backend</a><br><br><a href="https://github.com/UdGin9/severstal" target="_blank">Frontend</a></td><td>Всероссийский</td><td>Март 2024</td>
   </tr>
   <tr>
     <td>14</td><td>Интеллектуальный ассистент методиста</td><td>8</td><td>GeekBrains</td><td>Цифровой прорыв, «Россия — страна возможностей»</td><td><a href="https://github.com/MrRobinGoood/Smart-Lecture-Notes-Backend" target="_blank">Backend</a><br><br><a href="https://github.com/MrRobinGoood/Smart-Lecture-Notes-Frontend" target="_blank">Frontend</a></td><td>Международный</td><td>Ноябрь 2023</td>
