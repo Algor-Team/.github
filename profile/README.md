@@ -105,7 +105,7 @@
     <th>Сезон</th>
   </tr>
   <tr>
-    <td>15</td><td>Семантическая классификация документов</td><td>8</td><td>Акселератор возможностей</td><td>Цифровой прорыв. Сезон: Искусственный интеллект</td><td><a href="https://github.com/MrRobinGoood/SAD-Semantic-Analysis-of-Doc" target="_blank">Backend</a><br><br><a href="https://github.com/MrRobinGoood/SAD-frontend" target="_blank">Frontend</a></td><td>Окружной</td><td>Апрель 2024</td>
+    <td>16</td><td>Семантическая классификация документов</td><td>8</td><td>Акселератор возможностей</td><td>Цифровой прорыв. Сезон: Искусственный интеллект</td><td><a href="https://github.com/MrRobinGoood/SAD-Semantic-Analysis-of-Doc" target="_blank">Backend</a><br><br><a href="https://github.com/MrRobinGoood/SAD-frontend" target="_blank">Frontend</a></td><td>Окружной</td><td>Апрель 2024</td>
   </tr>
   <tr>
     <td>15</td><td>Умный помощник для тендеров</td><td>14</td><td>Северсталь</td><td>Федерация спортивного программирования России</td><td><a href="https://github.com/MrRobinGoood/SATP-Parser-Microservice" target="_blank">Backend</a><br><br><a href="https://github.com/UdGin9/severstal" target="_blank">Frontend</a></td><td>Всероссийский</td><td>Март 2024</td>
