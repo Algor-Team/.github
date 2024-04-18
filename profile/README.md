@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td>Получен топ 10</td>
-      <td>4</td>
+      <td>5</td>
     </tr>
   </tbody>
 </table>
