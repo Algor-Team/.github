@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td>Получен топ 10</td>
-      <td>5</td>
+      <td>7</td>
     </tr>
   </tbody>
 </table>
@@ -103,6 +103,15 @@
     <th>Результат</th>
     <th>Уровень</th>
     <th>Сезон</th>
+  </tr>
+  <tr>
+    <td>19</td><td>Генерация тегов для видео</td><td>16</td><td>Rutube</td><td>Цифровой прорыв. Сезон: Искусственный интеллект</td><td><a href="https://github.com/MrRobinGoood/Generating-Video-Tags" target="_blank">Backend</a><br><br><a href="https://github.com/MrRobinGoood/Generating-Video-Tags-App" target="_blank">Frontend</a></td><td>Всероссийский</td><td>Сентябрь 2024</td>
+  </tr>
+    <tr>
+    <td>18</td><td>Зеленая перепись</td><td>9</td><td>Правительство Москвы</td><td>Зеленый код Москвы</td><td><a href="https://disk.yandex.ru/d/iouZqyQrBpIPMw" target="_blank">Материалы</a></td><td>Сентябрь 2024</td>
+  </tr>
+  <tr>
+    <td>17</td><td>Определение зарплатных ожиданий по резюме</td><td>8</td><td>В продакшен ИТ-студия</td><td>Цифровой прорыв. Сезон: Искусственный интеллект</td><td><a href="https://github.com/MrRobinGoood/Salary-Profession-Prediction" target="_blank">Backend</a></td><td>Окружной - Сибирский федеральный округ</td><td>Сентябрь 2024</td>
   </tr>
   <tr>
     <td>16</td><td>Семантическая классификация документов</td><td>8</td><td>Акселератор возможностей</td><td>Цифровой прорыв. Сезон: Искусственный интеллект</td><td><a href="https://github.com/MrRobinGoood/SAD-Semantic-Analysis-of-Doc" target="_blank">Backend</a><br><br><a href="https://github.com/MrRobinGoood/SAD-frontend" target="_blank">Frontend</a></td><td>Окружной - Южный федеральный округ</td><td>Апрель 2024</td>
